@@ -33,9 +33,9 @@ Main Publications
 
 [CVPR 2024] [Towards More Unified In-context Visual Understanding](https://arxiv.org/pdf/2312.02520), Dianmo Sheng, Dongdong Chen, __Zhentao Tan__, Qiankun Liu, Qi Chu, Jianmin Bao, Tao Gong, Bin Liu, Shengwei Xu, Nenghai Yu.
 
-[ECCV __Oral__ 2022] [UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection](https://arxiv.org/pdf/2210.12752), Wanyi Zhuang, Qi Chu, __Zhentao Tan__, Qiankun Liu, Haojie Yuan, Changtao Miao, Zixiang Luo, Nenghai Yu.
-
 [TPAMI 2023] [Semantic Probability Distribution Modeling for Diverse Semantic Image Synthesis](https://ieeexplore.ieee.org/iel7/34/10091695/09904454.pdf), __Zhentao Tan__, Qi Chu, Menglei Chai, Dongdong Chen†, Jing Liao, Qiankun Liu, Bin Liu, Gang Hua, Nenghai Yu.
+
+[ECCV __Oral__ 2022] [UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection](https://arxiv.org/pdf/2210.12752), Wanyi Zhuang, Qi Chu, __Zhentao Tan__, Qiankun Liu, Haojie Yuan, Changtao Miao, Zixiang Luo, Nenghai Yu.
 
 [CVPR 2022] [Reduce Information Loss in Transformers for Pluralistic Image Inpainting](https://arxiv.org/pdf/2205.05076), Qiankun Liu, __Zhentao Tan__, Dongdong Chen, Qi Chu, Xiyang Dai, Yinpeng Chen, Mengchen Liu, Lu Yuan, Nenghai Yu.
 
