@@ -23,7 +23,7 @@ repository               : "tzt101/tzt101.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ZhentaoTan.png"
   name             : "Zhentao Tan"
   pronouns         : # example: "she/her"  
   bio              : "Thinking ..."
