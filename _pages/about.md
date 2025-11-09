@@ -11,6 +11,7 @@ Hello, my name is Zhentao Tan. I received my bachelor's degree from the Universi
 
 Currently, I am dedicated to the fundamental research and practical application of large-scale models, including exploring the mechanisms and characteristics of structures such as MoE, how to train basic models to adapt to tasks in different domains, how to construct better data to drive the training of large-scale models, and how to achieve a better balance between the performance and efficiency of large-scale models. If you are also interested in large-scale model technology, please feel free to contact me, whether for collaboration or internship!
 
+More contact information: [GMAIL](zhentaotan5@gmail.com), [OUTLOOK](tzt101@outlook.com).
 
 Main Publications
 ======
